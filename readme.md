@@ -7,7 +7,7 @@
 Partez en voyage dans mon univers afin de me découvrir au travers de mes projets. Comment ? Grâce au scroll, laissez-vous guider sur le chemin de ma (possible) réussite. 
 Plutôt un concept de storytelling guidé par une navigation inhabituelle. Effet WAW recherché. 
 Par un click sur image, on accède aux projets, travaux réalisés. Ils seront détaillés sur une nouvelle page plus "classique". Ici, le scroll se fait de manière habituelle, quelques éléments graphiques tels que l'affichage du niveau de scroll rappelleront la navigation de base et l'idée de voyage. 
-Au niveau des couleurs, Je vais partir vers des couleurs pastelles. En plus d'être à la mode, elles rappelleront ma douceur. 
+Au niveau des couleurs, Je vais partir vers des couleurs pastelles. En plus d'être à la mode, elles rappelleront ma douceur. Chaque section du site aura sa couleur attribuée.
 J'aimerai agrémenter le parcours avec des illustrations (fixes). 
 Le site sera multilingue, FR / AN. 
 
