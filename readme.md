@@ -8,7 +8,7 @@ Partez en voyage dans mon univers afin de me découvrir au travers de mes projet
 Plutôt un concept de storytelling guidé par une navigation inhabituelle. Effet WAW recherché. 
 Par un click sur image, on accède aux projets, travaux réalisés. Ils seront détaillés sur une nouvelle page plus "classique". Ici, le scroll se fait de manière habituelle, quelques éléments graphiques tels que l'affichage du niveau de scroll rappelleront la navigation de base et l'idée de voyage. 
 Au niveau des couleurs, Je vais partir vers des couleurs pastelles. En plus d'être à la mode, elles rappelleront ma douceur. 
-J'aimerai agrémenté le parcours avec des illustrations (fixes). 
+J'aimerai agrémenter le parcours avec des illustrations (fixes). 
 Le site sera multilingue, FR / AN. 
 
 ### Le moodboard : 
@@ -24,7 +24,7 @@ La navigation principale se constituera de plusieurs sections :
 - une section *contact* (avec un formulaire et mes informations personnelles)
 
 ### Le contenu : 
-Au niveau du contenu, j'utiliserai des petits textes clairs. Mon challenge ici est de réussir à me présenter et à présenter mes travaux de manière un peu informelle, en restant brève, sans tomber dans des histoires et des phrases bateau et en restant cohérente. Bien sûr, sans oublier non plus l'objectif principal qui est de donner l'envie de me rencontrer. 
+Au niveau du contenu, j'utiliserai des petits textes clairs. Mon challenge ici est de réussir à me présenter et à présenter mes travaux de manière un peu informelle, en restant brève et cohérente, sans tomber dans des histoires et des phrases bateau. Bien sûr, sans oublier non plus l'objectif principal qui est de donner l'envie de me rencontrer. 
 Dans la partie détaillant les projets, je me permetterai de gérer des plus longs textes expliquant le processus de mes réalisations, ... De ce fait, je pourrai montrer un coté plus sérieux et formel de moi-même. 
 
 ### le référencement : 
