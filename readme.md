@@ -4,17 +4,23 @@
 
 ### Le concept : 
 
-Quand on arrive sur mon portfolio, on est face à une page de présentation simple, avec peu d'éléments. Au centre : mon identité graphique (logo, illystration, autre). 
-Quand on scroll, on se retrouve "immergé dans l'écran", avec un déplacement sur l'axe Z, sorte de *zoom in* en profondeur de l'écran. [Voici un exemple pour mieux comprendre l'animation](https://rohitbind.com/invitation/).
+Quand on arrive sur mon portfolio, on est face à une page de présentation simple, avec peu d'éléments. Au centre : mon identité graphique (logo, illystration, autre).
+
+Quand on scroll, on se retrouve "immergé dans l'écran", avec un déplacement sur l'axe Z, sorte de *zoom in* en profondeur de l'écran. [Voici un exemple pour mieux comprendre l'animation](https://rohitbind.com/invitation/). 
+
 Une fois "à l'intérieur", Le contenu commence. (détail des différentes sections plus bas). Ici et partout ensuite, le scroll aura un effet "3D folded". [voir des exemples](https://tympanus.net/Tutorials/FoldingDOM/). 
+
 Dans la section my works, quand on click sur un projet, j'ai repris l'animation de *zoom in* pour faire apparaitre la page de détail du projet. --> ensuite donc, effet "3D folded" au scroll. 
-**Pour synthétiser : le concept se base sur une navigation inhabituelle : scroll zoom-in + scroll "3D folded" (manipulation de dom)**
+
+**Pour synthétiser : le concept se base sur une navigation inhabituelle : scroll zoom-in + scroll "3D folded" (manipulation de dom)** 
+
 
 Au niveau des couleurs, Je suis partie vers des couleurs pastelles, nudes avec quelques touches d'une couleur plus vive pour ne pas tomber dans la fadeur. Il y a une couleur de background de base (couleur nude) reprise dans chaque section du site. Et plusieurs couleurs pour différencier les projets (couleurs pastelles). 
 
 Voici quelques pallettes de couleurs qui m'inspirent : 
-<img src="./pallette-couleur-1.png" alt="pallette de couleur 1">
-<img src="./pallette-couleur-2.png" alt="pallette de couleur 2">
+<img src="./img/pallette-couleur-1.png" alt="pallette de couleur 1">
+<img src="./img/pallette-couleur-2.png" alt="pallette de couleur 2"> 
+
 
 Le site est multilingue, FR / EN. 
 
